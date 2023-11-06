@@ -1,3 +1,5 @@
+Download project to see Demo Video + Presentation!!!
+
 SOLO developed game for Samford 360 Game Design. Game is not complete, but rather a challenge to see what systems I could implement.
 
 Project includes:
